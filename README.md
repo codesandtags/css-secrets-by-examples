@@ -2,10 +2,10 @@
 
 A bunch of CSS examples given from the CSS Secrets book written by Lea Verou's book and real problem CSS in my current work.
 
-In order to create a usable, maintinable and replicable code I use [CodePen](https://codepen.io){:target="_blank"} to write my examples. 😃
+In order to create a usable, maintinable and replicable code I use <a href="https://codepen.io" target="_blank">CodePen</a> to write the examples. 😃
 
 ## Basics
-- [Speech Bubble](https://codepen.io/codesandtags/pen/VEqBwG){:target="_blank"}
+- <a href="https://codepen.io/codesandtags/pen/VEqBwG" target="_blank">Speech Bubble</a>
 
 
 
