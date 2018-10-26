@@ -6,7 +6,7 @@ In order to create a usable, maintinable and replicable code I use [CodePen](htt
 
 ## Basics
 - [Speech Bubble](https://codepen.io/codesandtags/pen/VEqBwG)
-
+- [Trasnlucent / Transparent borders](https://codepen.io/codesandtags/pen/qJggaZ)
 
 
 
