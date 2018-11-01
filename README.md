@@ -11,6 +11,7 @@ In order to create a usable, maintinable and replicable code I use [CodePen](htt
 - [Background Origin](https://codepen.io/codesandtags/pen/gBqqJB)
 - [Inner border rounding](https://codepen.io/codesandtags/pen/MPRBbW)
 - [Striped backgrounds](https://codepen.io/codesandtags/pen/ReOzMy)
+- [Background patterns with gradients](https://codepen.io/codesandtags/pen/VEoOdN)
 
 
 # Contact
