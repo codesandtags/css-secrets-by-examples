@@ -20,6 +20,10 @@ In order to create a usable, maintinable and replicable code I use [CodePen](htt
 - [Footer Example](https://codepen.io/codesandtags/pen/wZvwpp)
 - [Form placeholder and transitions example](https://codepen.io/codesandtags/pen/wZwZGB)
 - [Video as background example](https://codepen.io/codesandtags/pen/RdzVeB)
+- [Flip card example](https://codepen.io/codesandtags/pen/gEyMgr)
+- [Skewed section example](https://codepen.io/codesandtags/pen/RdOWrw)
+
+
 
 # Contact
 
