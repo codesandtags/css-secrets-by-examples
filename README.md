@@ -22,7 +22,7 @@ In order to create a usable, maintinable and replicable code I use [CodePen](htt
 - [Video as background example](https://codepen.io/codesandtags/pen/RdzVeB)
 - [Flip card example](https://codepen.io/codesandtags/pen/gEyMgr)
 - [Skewed section example](https://codepen.io/codesandtags/pen/RdOWrw)
-
+- [Composition image example](https://codepen.io/codesandtags/pen/BbENKe?editors=1100)
 
 
 # Contact
