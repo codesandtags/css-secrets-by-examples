@@ -26,6 +26,7 @@ In order to create a usable, maintinable and replicable code I use [CodePen](htt
 - [Accordion Image Gallery](https://codepen.io/codesandtags/pen/bMagOZ)
 - [Responsive Images](https://codepen.io/codesandtags/pen/rbWjEz)
 - [Background color selection](https://codepen.io/codesandtags/pen/YMNMYB)
+- [CSS Custom Properties](https://codepen.io/codesandtags/pen/OGgdvP?editors=0100)
 
 
 # Contact
