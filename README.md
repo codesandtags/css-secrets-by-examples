@@ -28,6 +28,7 @@ In order to create a usable, maintinable and replicable code I use [CodePen](htt
 - [Background color selection](https://codepen.io/codesandtags/pen/YMNMYB)
 - [CSS Custom Properties](https://codepen.io/codesandtags/pen/OGgdvP?editors=0100)
 - [Animated Call To Action Button](https://codepen.io/codesandtags/pen/axErdo)
+- [CSS Grid with examples](https://codepen.io/codesandtags/pen/yrGVar?editors=1100)
 
 
 # Contact
