@@ -31,6 +31,9 @@ In order to create a usable, maintinable and replicable code I use [CodePen](htt
 - [CSS Grid with examples](https://codepen.io/codesandtags/pen/yrGVar?editors=1100)
 - [Working with Images and text](https://codepen.io/codesandtags/pen/LQJvEY)
 
+# Animations
+- [Eye animation](https://codepen.io/codesandtags/pen/YMgzGY)
+
 
 # Contact
 
