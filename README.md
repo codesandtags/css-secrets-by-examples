@@ -35,6 +35,10 @@ In order to create a usable, maintinable and replicable code I use [CodePen](htt
 - [Eye animation](https://codepen.io/codesandtags/pen/YMgzGY)
 
 
+# Challenges
+- [100 days CSS Challenge](https://100dayscss.com/)
+
+
 # Contact
 
 > If you want to contact me or want to contribuite to the project, please write me an email to codesandtags@gmail.com
