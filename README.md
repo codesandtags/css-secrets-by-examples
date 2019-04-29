@@ -30,6 +30,7 @@ In order to create a usable, maintinable and replicable code I use [CodePen](htt
 - [Animated Call To Action Button](https://codepen.io/codesandtags/pen/axErdo)
 - [CSS Grid with examples](https://codepen.io/codesandtags/pen/yrGVar?editors=1100)
 - [Working with Images and text](https://codepen.io/codesandtags/pen/LQJvEY)
+- [Nav button with CSS](https://codepen.io/codesandtags/pen/YMgOzO)
 
 # Animations
 - [Eye animation](https://codepen.io/codesandtags/pen/YMgzGY)
