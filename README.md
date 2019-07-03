@@ -36,6 +36,12 @@ In order to create a usable, maintinable and replicable code I use [CodePen](htt
 - [Eye animation](https://codepen.io/codesandtags/pen/YMgzGY)
 
 
+# Responsive Patterns
+- [A complete guide about responsive patterns](https://developers.google.com/web/fundamentals/design-and-ux/responsive/patterns)
+- [Mostly fluid - based on flexbox](https://googlesamples.github.io/web-fundamentals/fundamentals/design-and-ux/responsive/mostly-fluid.html)
+- [Column Drop](https://googlesamples.github.io/web-fundamentals/fundamentals/design-and-ux/responsive/column-drop.html)
+- [Layout shifter](https://googlesamples.github.io/web-fundamentals/fundamentals/design-and-ux/responsive/layout-shifter.html)
+
 # Challenges
 - [100 days CSS Challenge](https://100dayscss.com/)
 
