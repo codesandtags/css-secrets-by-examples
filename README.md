@@ -41,6 +41,9 @@ In order to create a usable, maintinable and replicable code I use [CodePen](htt
 - [Mostly fluid - based on flexbox](https://googlesamples.github.io/web-fundamentals/fundamentals/design-and-ux/responsive/mostly-fluid.html)
 - [Column Drop](https://googlesamples.github.io/web-fundamentals/fundamentals/design-and-ux/responsive/column-drop.html)
 - [Layout shifter](https://googlesamples.github.io/web-fundamentals/fundamentals/design-and-ux/responsive/layout-shifter.html)
+- [Off canvas](https://googlesamples.github.io/web-fundamentals/fundamentals/design-and-ux/responsive/off-canvas.html)
+- [Tiny Tweaks](https://googlesamples.github.io/web-fundamentals/fundamentals/design-and-ux/responsive/tiny-tweaks.html)
+- [Responsive Images Demos](https://responsiveimages.org/demos/)
 
 # Challenges
 - [100 days CSS Challenge](https://100dayscss.com/)
