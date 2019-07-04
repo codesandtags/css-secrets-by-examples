@@ -44,6 +44,7 @@ In order to create a usable, maintinable and replicable code I use [CodePen](htt
 - [Off canvas](https://googlesamples.github.io/web-fundamentals/fundamentals/design-and-ux/responsive/off-canvas.html)
 - [Tiny Tweaks](https://googlesamples.github.io/web-fundamentals/fundamentals/design-and-ux/responsive/tiny-tweaks.html)
 - [Responsive Images Demos](https://responsiveimages.org/demos/)
+- [More responsive patterns](https://bradfrost.github.io/this-is-responsive/patterns.html)
 
 # Challenges
 - [100 days CSS Challenge](https://100dayscss.com/)
